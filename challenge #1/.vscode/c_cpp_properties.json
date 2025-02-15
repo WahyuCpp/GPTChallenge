@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\01 WORKSPACE\\Code Documents\\TestFile\\pointer challenge\\challenge #1\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Programming Environment\\C++\\ucrt64\\bin\\gdb.exe"
+        }
+    ],
+    "version": 4
+}
